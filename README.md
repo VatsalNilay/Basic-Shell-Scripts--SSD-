@@ -5,7 +5,6 @@
 --------------------
 
 * **Name:** Nilay Vatsal
-* **Roll Number:** 2024202003
 
 
 ## Setup
